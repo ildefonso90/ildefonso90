@@ -1,16 +1,18 @@
 <div align="center">
 
+<!-- HEADER ANIMADO RESPONSIVO (Ajustado para App Mobile e Web) -->
 <a href="https://github.com/ildefonso90">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Joaquim+Mucuateno;Computer+Engineering+Student;Software+Developer+%E2%80%A2+Systems+%26+AI+%F0%9F%87%A6%F0%9F%87%B4" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=100&lines=Joaquim+Mucuateno;Computer+Engineering+Student;Software+Developer+%E2%80%A2+Systems+%26+AI;Built+from+Angola+%F0%9F%87%A6%F0%9F%87%B4" alt="Header Banner" width="100%" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<br />
 
+<!-- ANIMAÇÃO ANIME PIXEL (Hospedada sem bloqueio no App) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1bmRxZnR4ZWNwY2I1ejJ0aWZyZHowOHo5YzNmbmJibzU4eTJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1s3C2Q0JtFA8sS116/giphy.gif" width="60%" alt="Anime Coding Setup" />
+  <img src="https://raw.githubusercontent.com/gist/assets/a33bd2f39d2ecb313bbd8c83a1529188/anime-lofi-coding.gif" width="100%" style="max-width:550px;" alt="Anime Coding Setup" />
 </p>
 
-**Turning complex logic, automation algorithms, and real-world problems into high-performance software.**
+### ⚡ **Turning complex logic, automation algorithms, and real-world problems into high-performance software.**
 
 <br />
 
@@ -20,7 +22,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+---
 
 ## 👨🏾‍💻 Professional Overview & Engineering Profile
 
@@ -34,14 +36,13 @@ My engineering approach bridges system-level work with application architecture.
 * 📦 **Enterprise Systems:** Inventory management, POS software, stock control, and business software logic.
 * 📱 **Cross-Platform & Web Apps:** Mobile and web applications using Flutter, Dart, JavaScript, and .NET.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+---
 
 ## ⚡ Tech Stack & Skill Proficiency
 
 <div align="center">
 
 ### 💻 Programming Languages
-
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -52,7 +53,6 @@ My engineering approach bridges system-level work with application architecture.
 </p>
 
 ### ⚙️ Frameworks & Ecosystem
-
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -61,7 +61,6 @@ My engineering approach bridges system-level work with application architecture.
 </p>
 
 ### 🗄️ Databases & Backend
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -71,7 +70,6 @@ My engineering approach bridges system-level work with application architecture.
 </p>
 
 ### 🐧 Infrastructure, OS & DevOps
-
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -81,7 +79,7 @@ My engineering approach bridges system-level work with application architecture.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+---
 
 ## 🚀 Featured Open-Source Projects
 
@@ -98,18 +96,55 @@ My engineering approach bridges system-level work with application architecture.
 
 </div>
 
-### 📂 Complete Ecosystem Repository Index
+### 📂 Repository Index Overview
 
-```text
-├── 🏢 Commercial & Enterprise Systems
-│   ├── SSG Garrafeira Manager ─── C# management system for business retail.
-│   └── Sistema Gestor De Stock ── Inventory and stock management project.
-│
-├── 🛡️ Automation, Bots & Utilities
-│   ├── BOT-T-Terminal-Access ──── Terminal / automation project.
-│   ├── WebExploitScanner01 ────── Web security scanning experiment.
-│   └── BaixarTUDO ─────────────── Download / utility project.
-│
-└── 🎓 Academic, Educational & Open Projects
-    ├── estudarexam2 ───────────── Exam preparation / educational project.
-    └── Tradução CK2 PT-BR ─────── Game localization project.
+#### 🏢 Commercial & Enterprise Systems
+* **SSG Garrafeira Manager** (`C#`) — Enterprise management system for retail business.
+* **Sistema Gestor De Stock** — Inventory, product tracking, and stock control platform.
+
+#### 🛡️ Automation, Bots & Utilities
+* **BOT-T-Terminal-Access** — Terminal automation and remote access utility.
+* **WebExploitScanner01** — Web security scanner experiment.
+* **BaixarTUDO** — Download and media batch utility project.
+
+#### 🎓 Academic, Educational & Open Projects
+* **estudarexam2** — Exam preparation platform and study material project.
+* **Tradução CK2 PT-BR** — Game localization and translation project.
+
+---
+
+## 🔒 Private Repositories & Industrial Software
+
+> **A significant part of my software engineering work remains private.**
+>
+> Some larger projects are kept private because of their nature, confidentiality, client requirements, or ongoing development.
+
+---
+
+## 📈 Contribution Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ildefonso90&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" style="max-width:450px;" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ildefonso90&theme=tokyonight" alt="GitHub Streak" width="100%" style="max-width:450px;" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonso90&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="100%" style="max-width:450px;" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🇦🇴 Built from Angola • Engineered for Global Scale
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ildefonso90&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ildefonso90)
+
+**Thanks for visiting my profile.**
+
+</div>
