@@ -87,8 +87,11 @@ I am a Computer Engineering student focused on building robust solutions for **a
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ildefonso90&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonso90&layout=compact&theme=dark" />
+[![GitHub followers](https://img.shields.io/github/followers/ildefonso90?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/ildefonso90)
+[![GitHub stars](https://img.shields.io/github/stars/ildefonso90?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=181717)](https://github.com/ildefonso90?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fildefonso90&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=181717)](https://github.com/ildefonso90?tab=repositories)
+
+> *Contributions and activity include public repos, code reviews, and private commits.*
 
 </div>
 
